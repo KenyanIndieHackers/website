@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Careergo",
+        "description": "Our AI tools help mid-career professionals create resumes and cover letters that highlight their achievements and skills, increasing their chances of getting interviews.",
+        "categories": [
+            "AI",
+            "Career"
+        ],
+        "founded": 2023,
+        "website": "https://careergo.co",
+        "imageUrl": "https://careergo.co/images/open-graph/website.jpg"
+    }
+]
