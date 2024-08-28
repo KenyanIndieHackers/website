@@ -9,5 +9,17 @@
         "founded": 2023,
         "website": "https://careergo.co",
         "imageUrl": "https://careergo.co/images/open-graph/website.jpg"
+    },
+    {
+        "name": "ViralMarketer",
+        "description": "Save hours of content creation and social media management with AI",
+        "categories": [
+            "AI",
+            "Social Media",
+            "Marketing"
+        ],
+        "founded": 2024,
+        "website": "https://viralmarketer.co",
+        "imageUrl": "https://www.viralmarketer.co/static/site_images/og.png"
     }
 ]
